@@ -1,0 +1,60 @@
+[
+    {
+        "equipment_id": "EXC-001",
+        "last_maintenance_date": "2026-04-15",
+        "error_codes": []
+    },
+    {
+        "equipment_id": "EXC-002",
+        "last_maintenance_date": "2026-04-12",
+        "error_codes": []
+    },
+    {
+        "equipment_id": "EXC-003",
+        "last_maintenance_date": "2026-05-07",
+        "error_codes": [
+            "E-204 (Vibration Anomaly)"
+        ]
+    },
+    {
+        "equipment_id": "EXC-004",
+        "last_maintenance_date": "2026-04-30",
+        "error_codes": []
+    },
+    {
+        "equipment_id": "EXC-005",
+        "last_maintenance_date": "2026-05-17",
+        "error_codes": []
+    },
+    {
+        "equipment_id": "BLR-001",
+        "last_maintenance_date": "2026-04-18",
+        "error_codes": []
+    },
+    {
+        "equipment_id": "BLR-002",
+        "last_maintenance_date": "2026-04-19",
+        "error_codes": [
+            "E-204 (Vibration Anomaly)",
+            "E-101 (Overheat)"
+        ]
+    },
+    {
+        "equipment_id": "BLR-003",
+        "last_maintenance_date": "2026-05-31",
+        "error_codes": []
+    },
+    {
+        "equipment_id": "BLR-004",
+        "last_maintenance_date": "2026-04-20",
+        "error_codes": []
+    },
+    {
+        "equipment_id": "BLR-005",
+        "last_maintenance_date": "2026-04-11",
+        "error_codes": [
+            "E-999 (Sensor Fault)",
+            "E-101 (Overheat)"
+        ]
+    }
+]
